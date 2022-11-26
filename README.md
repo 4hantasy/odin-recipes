@@ -1,1 +1,1 @@
-# odin-recipes
+This is a simple website using HTML talking about some dishes that I love to make, including the recipes for it. The reason to make this simple website is to show that I understand the HTML basics taught from TheOdinProject. 
